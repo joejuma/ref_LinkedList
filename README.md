@@ -6,8 +6,8 @@ has a simple implementation, along with a set of unit tests.
 
 ## Why is it useful?
 * Reference when implementing linked lists.
-* An implementation based on this will be used in provided libraries 
-(nova-cpp).
+* An implementation based on this can be reliably folded into libraries 
+after it's used in enough projects to say it's stable.
 
 ## What parts are there?
 * The LinkedList is in `LinkedList_struct.h`
